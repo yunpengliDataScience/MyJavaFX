@@ -1,4 +1,4 @@
-package org.dragon.yunpeng;
+package org.dragon.yunpeng.animation;
 
 import javafx.animation.TranslateTransition;
 import javafx.application.Application;
